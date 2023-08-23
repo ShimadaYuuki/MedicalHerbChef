@@ -9,13 +9,13 @@ MedicalHerbChef (https://mhc.bio.kyutech.ac.jp/) enables us to predict the thera
 
 ## Requirements
 
-python==3.8.8
+python 3.0 or later
 
-gmpy2==2.1.2
+gmpy2==2.0.0 or later
 
-numpy==1.21.2
+numpy==1.20.0 or later 
 
-pandas==1.2.1
+pandas==1.2.1 or later
 
 
 ## Usage
@@ -25,7 +25,7 @@ We provide two analysis modes:
 **Custom-made proportion of crude drugs**
 
 ```
-python　MedicalHerbChef.py　KEGG　English　 Custom　Ephedra_Herb 5.0 Glycyrrhiza 1.5
+python　MedicalHerbChef.py　Dataset　Language　crude_drug1 dosage1 crude_drug2 dosage2
 ```
 
 
@@ -33,5 +33,5 @@ python　MedicalHerbChef.py　KEGG　English　 Custom　Ephedra_Herb 5.0 Glycyr
 
 
 ```
-python　MedicalHerbChef.py　KEGG　English　 Kakkonto
+python　MedicalHerbChef.py　Dataset　Language Kampo_formula
 ```
