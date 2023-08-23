@@ -25,7 +25,7 @@ We provide two analysis modes:
 **Custom-made proportion of crude drugs**
 
 ```
-python　MedicalHerbChef.py　Dataset　Language　crude_drug1 dosage1 crude_drug2 dosage2
+python　MedicalHerbChef.py　Dataset　Language　Custom crude_drug1 dosage1 crude_drug2 dosage2
 ```
 
 
@@ -33,5 +33,5 @@ python　MedicalHerbChef.py　Dataset　Language　crude_drug1 dosage1 crude_dru
 
 
 ```
-python　MedicalHerbChef.py　Dataset　Language Kampo_formula
+python　MedicalHerbChef.py　Dataset　Language Kampo Kampo_formula
 ```
