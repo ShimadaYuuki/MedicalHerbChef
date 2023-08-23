@@ -18,9 +18,14 @@ pandas==1.2.1
 
 
 ## Usage
+
+Custom-made formula
+
 ```
 python　MedicalHerbChef.py　KEGG　English　 Custom　Ephedra_Herb 5.0 Glycyrrhiza 1.5
 ```
+
+Existing Kampo formula
 
 ```
 python　MedicalHerbChef.py　KEGG　English　 Kakkonto
