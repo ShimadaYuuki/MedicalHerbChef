@@ -12,5 +12,9 @@ pandas==1.2.1
 
 ## Usage
 ```
-python　pathway_all.py　KEGG　English　 Custom　生薬名1　比率1　生薬名2　比率2　~
+python　MedicalHerbChef.py　KEGG　English　 Custom　Ephedra_Herb 5.0 Glycyrrhiza 1.5
+```
+
+```
+python　MedicalHerbChef.py　KEGG　English　 Kakkonto
 ```
