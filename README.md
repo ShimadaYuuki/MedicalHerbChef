@@ -19,7 +19,10 @@ pandas==1.2.1
 
 ## Usage
 
-Custom-made formula
+We provide two methods:
+
+** Custom-made formula **
+
 
 
 ```
