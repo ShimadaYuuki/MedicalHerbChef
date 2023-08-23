@@ -19,20 +19,16 @@ pandas==1.2.1
 
 ## Usage
 
-We provide two methods:
+We provide two analysis modes:
 
-** Custom-made formula **
-
-
+**Custom-made proportion of crude drugs**
 
 ```
 python　MedicalHerbChef.py　KEGG　English　 Custom　Ephedra_Herb 5.0 Glycyrrhiza 1.5
 ```
 
 
-
-
-Existing Kampo formula
+**A preset proportion of crude drugs**
 
 
 ```
